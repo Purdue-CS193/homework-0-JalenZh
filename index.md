@@ -29,6 +29,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Jalen Zhang's First CS193 Homework
+## *Things I like about CS193*
+- I am excided to learn about Linus and LaTeX
+- I am curious about the information that will be provided about resumes and career fairs
+- I am amazed about how this class is run by other, older students
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
