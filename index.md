@@ -6,7 +6,13 @@
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
+
+# Jalen Zhang's First CS193 Homework
+## *Things I like about CS193*
+- I am excided to learn about Linus and LaTeX
+- I am curious about the information that will be provided about resumes and career fairs
+- I am amazed about how this class is run by other, older students
 
 ### Markdown
 
@@ -29,15 +35,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-# Jalen Zhang's First CS193 Homework
-## *Things I like about CS193*
-- I am excided to learn about Linus and LaTeX
-- I am curious about the information that will be provided about resumes and career fairs
-- I am amazed about how this class is run by other, older students
-
-
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
